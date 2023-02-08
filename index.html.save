@@ -1,4 +1,7 @@
 <!DOCTYPE HTML>
+<!--
+	Leoksu biswas and  Morning glowerr
+-->
 <html>
 	<head>
 		<title>Leoksu</title>
@@ -8,9 +11,11 @@
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
+
+		<!-- Wrapper -->
 			<div id="wrapper">
 
-				<!-- Heamder -->
+				<!-- Header -->
 					<header id="header">
 						<div class="logo">
 							<span class="icon fa-gem"></span>
@@ -18,50 +23,48 @@
 						<div class="content">
 							<div class="inner">
 								<h1>Leoksu</h1>
-								<p>Art &nbsp;Music &nbsp;Programming</p> 
+								<p>Design &nbsp; Replenish &nbsp; Renovate</p> 
 							</div>
 						</div>
 						<nav>
 							<ul>
 								<li><a href="#intro">Intro</a></li>
+								<li><a href="#work">Work</a></li>
 								<li><a href="#about">About</a></li>
-								<li><a href="#hobby">Hobby</a></li>
 								<li><a href="#contact">Contact</a></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
 					</header>
 
-				<!-- You gay -->
+				<!-- Main -->
 					<div id="main">
 
-						<!-- Imtro -->
+						<!-- Intro -->
 							<article id="intro">
-								<h2 class="major">Introduction</h2>
+								<h2 class="major">Intro</h2>
 								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
-								<p> Developer &nbsp;| Guitarist &nbsp;| Writter <br/></p> <hr>
-								<p>Hello! With <b>Leoksu</b> here, or you can call me <strong>Leo</strong>. I'm 18 y.o boy from Indonesia.</p>
-								<p>Welcome to my page!</p>
+								<p> a Coder &nbsp;|| a Dev &nbsp;|| a Trader <br/></p> <hr>
+								<p>Hey There, Leoksu this side ! for a couple of years the world of AI and ML fascinated me a lot thus thought to chase this field. Worked with so many github-clients and built awesome projects !
+								</p>
 							</article>
 
-						<!-- Hombby -->
-							<article id="hobby">
-								<h2 class="major">Hobbies</h2>
+						<!-- Work -->
+							<article id="work">
+								<h2 class="major">Work</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
-								<p>For couple of month learning about Programming, more towards Robotic and AI actually. I like to play guitar since I was 7 y.o, and it's became my hobby. And just a month ago became interested in writing.
-								</p>
-								<p>Now I'm start developing a small Telegram bots which you can find <a href="https://t.me/GhostWebs">&nbsp;here<a/>, making Python scripts, and building a small personal site.
-								</p>
+								<p>Cracked NEET 2022, along with JEE Mains and CUET 2022. NOW doing as A MEDICO / MBBS student which is the gateway to be a registered Medical Practitioner in India!</p>
+								<p>Now exploring the fields such as video Editing and graphic designing.</p>
 							</article>
 
-						<!-- Aboumt -->
+						<!-- About -->
 							<article id="about">
 								<h2 class="major">About</h2>
-								<span class="image main"><img src="images/pic03.jpg" alt="" /></span
-								<p>Just a person who searching happines by learning new stuff and practice it, mostly about robotics, musics, art and design</p>
-								<p>Tbh, I don't know what tf this whole site for. Anyway, you can find me in telegram as <a href="https://t.me/leoxsu">&nbsp;@leoxsu</a></p>
+								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
+								<p>Just basically a learner and paving paths for other learners ! A night-owl forex guy . wanna know about trading and investing ? just drop a text at telegram <a href="https://t.me/Hey_Leoksu">&nbsp;@hey_Leoksu</a></p>
 							</article>
 
-						<!-- Contamct -->
+						<!-- Contact -->
 							<article id="contact">
 								<h2 class="major">Contact</h2>
 								<form method="post" action="#">
@@ -85,10 +88,10 @@
 									</ul>
 								</form>
 								<ul class="icons">
-									<li><a href="https://twitter.com/" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-									<li><a href="https://t.me/leoxsu" class="icon brands fa-telegram"><span class="label">Telegram</span></a></li>
-									<li><a href="https://instagram.com/itsleoksu" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-									<li><a href="https://github.com/Leoksu" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://twitter.com/hey_Leoksu_?s=11&t=xja3JMFICrrJ6Su7pJVUAg" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="https://facebook.com" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="https://instagram.com/Leoksu.medico.legal" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 								</ul>
 							</article>
 
